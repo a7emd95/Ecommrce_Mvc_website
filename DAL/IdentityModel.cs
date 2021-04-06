@@ -64,7 +64,7 @@ namespace DAL
     {
 
         public ApplicationDBContext() :
-            base("Data Source=.;Initial Catalog=EcoMmce;Integrated Security=True")
+          base("Data Source=AHMED-TOSHIBA;Initial Catalog=EcommerceTest;Integrated Security=True") // base("Data Source=.;Initial Catalog=EcoMmce;Integrated Security=True")
         {
 
         }
